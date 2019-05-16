@@ -31,7 +31,7 @@
         "fmtjs": "5.8.0",
         "fmtjs-loader": "5.8.0",
         "fmtjs-web": "5.8.0",
-        "open": "^0.0.5",
+        "open": "^6.0.0",
         "request": "^2.75.0"
     }
 }
